@@ -1,0 +1,13 @@
+Cola,5.00
+Ice Tea,5.00
+Cappy,5.00
+Fanta,5.00
+Sprite,5.00
+Scheweppes,5.00
+Limonade,6.00
+Fruit Soda,4.00
+Soda,3.00
+Buttermilk,3.00
+Water,2.00
+Frappe,9.00
+Milkshake,10.00

@@ -1,0 +1,4 @@
+Breakfast Plate,12.00
+Strawberry Omelette,7.00
+Sausage Omelette,7.00
+Menemen,9.00

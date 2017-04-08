@@ -1,0 +1,15 @@
+Tea,3.00
+Cup of Tea,4.00
+Fruit Tea,5.00
+Herbal Tea,7.00
+Turkish Coffee,6.00
+Nescafe,6.00
+Espresso,6.00
+Americano,7.00
+Cappucino,7.00
+Latte,8.00
+Mocha,8.00
+Macchiato,8.00
+Filter Coffee,7.00
+Sahlep,7.00
+Hot chocolate,8.00

@@ -1,0 +1,9 @@
+Cheesed Toast,7.00
+Mixed Toast,8.00
+Ayvalık Toast,10.00
+Hamburger,11.00
+Cheeseburger,12.00
+Patso,7.00
+Hot Dog,8.00
+Finger Potato,7.00
+Apple Slice Potato,7.00
