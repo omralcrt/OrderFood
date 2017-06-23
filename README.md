@@ -9,7 +9,7 @@ This project is created for CMPE 408 Final Project. Firstly, it opens QR Code re
 ## Installation & Usage
 ```bash
 # Clone the repository
-$ git clone https://github.com/omralcrt/ovidos-challenge.git
+$ git clone https://github.com/omralcrt/OrderFood.git
 
 # Import project to Android Studio
 ```
